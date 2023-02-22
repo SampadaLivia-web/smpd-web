@@ -446,7 +446,7 @@ h6 {
 #hero h2 {
   color: rgba(255, 255, 255, 0.9);
   margin: 10px 0 0 0;
-  font-size: 24px;
+  /* font-size: 24px; */
 }
 
 #hero .icon-box {
@@ -475,6 +475,11 @@ h6 {
 #hero .icon-box h3 a {
   color: #fff;
   transition: ease-in-out 0.3s;
+}
+
+#hero .icon-box h3 {
+  color: #fff;
+  font-style: normal;
 }
 
 #hero .icon-box h3 a:hover {
@@ -604,8 +609,9 @@ section {
 }
 
 .features .icon-box p {
-  font-size: 15px;
-  color: #848484;
+  font-size: 20px;
+  font-weight: bold;
+  color: #797070;
   margin-left: 60px;
 }
 
