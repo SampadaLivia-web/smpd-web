@@ -1247,3 +1247,31 @@ section {
   padding-top: 100px;
 }
 
+.h-90{
+  height: 90px;
+}
+.translate-x-20{
+  margin:0 20% ;
+}
+
+@media screen and (min-width:991px) {
+  .translate-x-20{
+    transform: translateX(20%);
+    z-index:2;
+    margin: 0;
+  } 
+}
+
+.translate-xnot-20{
+  transform: translateX(-10%);
+}
+
+.bg-sm-light-lg-dark{
+  background-color: white;
+}
+
+@media screen  and (min-width:992px) {
+  .bg-sm-light-lg-dark{
+    background-color: #292b2c;
+  }
+}
