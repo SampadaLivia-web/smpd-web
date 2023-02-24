@@ -15,10 +15,12 @@ body {
 }
 
 a {
+  color: var(--secondary);
   text-decoration: none;
 }
 
 a:hover {
+  color: var(--secondary);
   text-decoration: none;
 }
 
