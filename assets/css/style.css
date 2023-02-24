@@ -1236,3 +1236,14 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/* manual css */
+
+.vh-50{
+  height: 50vh !important;
+}
+
+.pt-60{
+  padding-top: 100px;
+}
+
