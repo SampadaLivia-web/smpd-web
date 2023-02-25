@@ -1,9 +1,10 @@
 :root{
   /* color: #151515; */
-  --main: rgb(102,16,242);
-  --mainOpac: rgb(102,16,242,0.8);
+  --main: #0032b2;
+  --mainOpac: rgb(0,47,175,0.8);;
   --secondary:white;
-  --gradient:linear-gradient(90deg, rgba(102,16,242,1) 0%, rgba(122,4,189,1) 100%);
+  --gradient:linear-gradient(90deg, rgba(0,47,175,1) 0%, rgba(0,50,178,1) 100%);
+  --main-text:#00288e;
 }
 
 /*--------------------------------------------------------------
@@ -394,11 +395,11 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: rgb(102,16,242);
+  color: var(--main-text);
 }
 
 .section-info p {
-  color: rgb(102,16,242);
+  color: var(--main-text);
 }
 
 /*--------------------------------------------------------------
@@ -541,14 +542,14 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: rgb(102,16,242);
+  color: var(--main-text);
 }
 
 .team .member .member-info p {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
-  color: rgb(102,16,242);
+  color: var(--main-text);
 }
 
 .team .member:hover .social {
@@ -757,11 +758,11 @@ section {
 }
 
 .bg-main{
-  background: rgb(102,16,242);
+  background: var(--main);
 }
 
 .bg-main-gradient{
-  background: rgb(102,16,242);
+  background: var(--main);
   background: var(--gradient);
 }
 
@@ -770,7 +771,7 @@ section {
 }
 
 .text-main{
-  color: var(--main);
+  color: var(--main-text);
 }
 
 .font-size-24{
