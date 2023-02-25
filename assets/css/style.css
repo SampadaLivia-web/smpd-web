@@ -505,7 +505,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 .section-title h2 {
@@ -536,7 +536,11 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #151515;
+  color: rgb(102,16,242);
+}
+
+.section-info p {
+  color: rgb(102,16,242);
 }
 
 /*--------------------------------------------------------------
@@ -848,14 +852,14 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #151515;
+  color: #4941e2;
 }
 
 .team .member .member-info span {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: rgb(102,16,242);
 }
 
 .team .member .member-info p {
