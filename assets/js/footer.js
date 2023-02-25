@@ -48,6 +48,6 @@ footerRef.innerHTML=`<div class="footer-top">
 
 <div class="container">
 <div class="copyright">
-  &copy; Copyright <strong><span>SLB WELFARE ASSOCIATION</span></strong>. All Rights Reserved
+  &copy; Copyright <strong><span>NMS Enterprises Limited</span></strong>. All Rights Reserved
 </div>
 </div>`
