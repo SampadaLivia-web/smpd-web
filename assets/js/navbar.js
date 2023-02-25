@@ -6,7 +6,7 @@ headerRef.innerHTML=`<div class="container d-flex align-items-center justify-con
     <li><a class="nav-link scrollto" href="./index.html">Home</a></li>
     <li><a class="nav-link scrollto" href="./about.html">About</a></li>
     <li><a class="nav-link scrollto" href="./support.html">FAQs</a></li>
-    <li><a class="nav-link scrollto" href="#team">Team</a></li>
+    <li><a class="nav-link scrollto" href="./team.html">Team</a></li>
     <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
       <ul>
         <li><a href="#">Drop Down 1</a></li>
