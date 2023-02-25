@@ -866,7 +866,7 @@ section {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
-  color: #777777;
+  color: rgb(102,16,242);
 }
 
 .team .member:hover .social {
