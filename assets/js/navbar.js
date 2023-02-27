@@ -24,7 +24,7 @@ headerRef.innerHTML=`<div class="container d-flex align-items-center justify-con
         <li><a href="#">Drop Down 4</a></li>
       </ul>
     </li>
-    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+    <li><a class="nav-link scrollto" href="./contact.html">Contact</a></li>
   </ul>
   <i class="bi bi-list mobile-nav-toggle"></i>
 </nav><!-- .navbar -->
