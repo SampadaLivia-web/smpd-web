@@ -5,36 +5,31 @@ var products = [
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions',
-        toggle:true
+        desc:'Descriptions'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
-        heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions',
-        toggle:true
+        heading:'3BHK 1330 Sq.Ft.',
+        desc:'Descriptions'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
-        heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions',
-        toggle:true
+        heading:'3BHK 1690 Sq.Ft.',
+        desc:'Descriptions'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
-        heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions',
-        toggle:true
+        heading:'3BHK 1870 Sq.Ft.',
+        desc:'Descriptions'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
-        heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions',
-        toggle:true
+        heading:'4BHK 2320 Sq.Ft.',
+        desc:'Descriptions'
     }
 ]
 
@@ -66,14 +61,6 @@ const getProduct = (product, idx) => {
                 <blockquote class="blockquote p-4">
                     <h3 class="mb-5">${product.heading}</h3>
                     <footer class="blockquote-footer">${product.desc}</footer>
-                    <div class="d-flex">
-                        <div class="btn btn-outline-dark d-flex justify-content-center align-items-center">
-                            <i class="bi bi-arrow-left"></i>
-                        </div>
-                        <div class="btn btn-outline-dark d-flex justify-content-center align-items-center mx-2">
-                            <i class="bi bi-arrow-right"></i>
-                        </div>
-                    </div>
                 </blockquote>
             </div>
         </div>
