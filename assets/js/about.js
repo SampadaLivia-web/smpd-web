@@ -5,31 +5,31 @@ var products = [
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'2BHK 1045 Sq. Ft.',
-        desc:'Descriptions'
+        desc:'2BED + KITCHEN + DRAWING + DINNING + 2 TOILETS + 3 BALCONIES <br> SUPER AREA = 1045 Sq.Ft. <br> Rs. 28.21* Lakh',
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'3BHK 1330 Sq.Ft.',
-        desc:'Descriptions'
+        desc:'3BED + KITCHEN + DRAWING + DINNING + 2 TOILETS + 4 BALCONIES <br> SUPER AREA = 1330 Sq.Ft. <br> Rs. 35.91* Lakh',
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'3BHK 1690 Sq.Ft.',
-        desc:'Descriptions'
+        desc:'3BED + KITCHEN + DRAWING + DINNING + 3 TOILETS + 3 BALCONIES <br> SUPER AREA = 1690 Sq.Ft. <br> Rs. 45.63* Lakh'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'3BHK 1870 Sq.Ft.',
-        desc:'Descriptions'
+        desc:'3BED + KITCHEN + DRAWING + DINNING + 3 TOILETS + 3 BALCONIES + SERVENT ROOM WITH TOILET AND BALCONY <br> SUPER AREA = 1870 Sq.Ft. <br> Rs. 50.49* Lakh'
     },
     {
         image1:'./assets/img/cta-bg.jpg',
         image2:'./assets/img/counts-img.jpg',
         heading:'4BHK 2320 Sq.Ft.',
-        desc:'Descriptions'
+        desc:'4BED + KITCHEN + DRAWING + DINNING + 3 TOILETS + 5 BALCONIES + SERVENT ROOM WITH TOILET AND BALCONY <br> SUPER AREA = 2320 Sq.Ft. <br> Rs. 62.64* Lakh'
     }
 ]
 
