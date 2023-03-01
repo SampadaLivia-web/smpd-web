@@ -7,24 +7,12 @@ headerRef.innerHTML=`<div class="container d-flex align-items-center justify-con
     <li><a class="nav-link scrollto" href="./about.html">About</a></li>
     <li><a class="nav-link scrollto" href="./support.html">FAQs</a></li>
     <li><a class="nav-link scrollto" href="./team.html">Team</a></li>
-    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-      <ul>
-        <li><a href="#">Drop Down 1</a></li>
-        <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-          <ul>
-            <li><a href="#">Deep Drop Down 1</a></li>
-            <li><a href="#">Deep Drop Down 2</a></li>
-            <li><a href="#">Deep Drop Down 3</a></li>
-            <li><a href="#">Deep Drop Down 4</a></li>
-            <li><a href="#">Deep Drop Down 5</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Drop Down 2</a></li>
-        <li><a href="#">Drop Down 3</a></li>
-        <li><a href="#">Drop Down 4</a></li>
-      </ul>
-    </li>
+    <li><a class="nav-link scrollto" href="./gallery.html">Gallery</a></li>
     <li><a class="nav-link scrollto" href="./contact.html">Contact</a></li>
+    <li><a href="./" class="nav-link scrollto">
+      <span>Total No Of Visitors</span>
+      <img class="mx-2" src="https://hitwebcounter.com/counter/counter.php?page=8340022&style=0006&nbdigits=5&type=page&initCount=100"/></a> 
+    </li>
   </ul>
   <i class="bi bi-list mobile-nav-toggle"></i>
 </nav><!-- .navbar -->
