@@ -787,6 +787,11 @@ section {
   padding: 0 10%;
 }
 
+.external-links a p:hover{
+  color: var(--main);
+  text-decoration: underline;
+}
+
 @media screen and (min-width:768px) {
   .translate-y-10{
     transform: translateY(-30%);

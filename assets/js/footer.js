@@ -30,6 +30,6 @@ footerRef.innerHTML=`<div class="footer-top">
 
 <div class="container">
 <div class="copyright">
-  &copy; Copyright <strong><span>NMS Enterprises Limited</span></strong>. All Rights Reserved.
+  &copy; Copyright <a href="https://www.nmsenterprises.net/" target="_blank"><strong>NMS Enterprises Limited</strong></a>. All Rights Reserved.
 </div>
 </div>`
